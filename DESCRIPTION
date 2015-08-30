@@ -1,0 +1,9 @@
+Package: rBedtools
+Type: Package
+Title: Interface with Bedtools
+Version: 1.0
+Date: 2015-08-29
+Author: Michael Chambers
+Maintainer: mike@mdchambers.com
+Description: A simple interface for using Bedtools from within R
+License: dunno
